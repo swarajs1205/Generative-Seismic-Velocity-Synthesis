@@ -89,10 +89,10 @@ After training, check `results/comparison.png` to see how your generated images 
 If you use this code in your research or projects, please mention it like this:
 
 **Plain text:**
-> Mohit (2026). Seismic Diffusion Model for Velocity Synthesis. GitHub repository. https://github.com/Mo-HIIT/Seismic-diffusion-model
+> Swaraj(2026). Seismic Diffusion Model for Velocity Synthesis. GitHub repository. (https://github.com/swarajs1205/Generative-Seismic-Velocity-Synthesis)
 
 **Or simply:**
-> This work uses the seismic diffusion model by Mohit, available at https://github.com/Mo-HIIT/Seismic-diffusion-model
+> This work uses the seismic diffusion model by Swaraj, available at (https://github.com/swarajs1205/Generative-Seismic-Velocity-Synthesis).
 
 ## Acknowledgments
 
